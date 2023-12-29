@@ -1,7 +1,3 @@
-Certainly! Here's a sample README for your Unity game development project using the hybrid approach with a component-based architecture:
-
----
-
 # Unity Game Development with Hybrid Component-Based Architecture
 
 ## Overview
