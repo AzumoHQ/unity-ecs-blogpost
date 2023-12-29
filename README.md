@@ -36,16 +36,4 @@ Welcome to the Unity Game Development project utilizing a hybrid component-based
 - **Create Entities:** Utilize the `CreateEntity` method in the `EntityContainer` class to efficiently generate entities with diverse components.
 - **Remove Entities:** Use the `RemoveEntity` method to dismantle entities, recycling their IDs for memory optimization.
 
-## Contributions
-
-Contributions are welcome! If you have improvements, bug fixes, or new features to suggest, feel free to create issues or pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-Special thanks to contributors and the Unity community for their insights and support in building a versatile and efficient game development architecture.
-
 Happy coding!
