@@ -19,7 +19,7 @@ Welcome to the Unity Game Development project utilizing a hybrid component-based
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/unity-hybrid-component-architecture.git
+   git clone https://github.com/AzumoHQ/unity-ecs-blogpost
    ```
 
 2. **Open in Unity:**
@@ -49,7 +49,3 @@ This project is licensed under the [MIT License](LICENSE).
 Special thanks to contributors and the Unity community for their insights and support in building a versatile and efficient game development architecture.
 
 Happy coding!
-
----
-
-Remember to replace "your-username" in the clone URL with your actual GitHub username. Feel free to customize the README further based on your specific project details and preferences.
